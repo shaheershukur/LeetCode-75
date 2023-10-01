@@ -5,4 +5,4 @@ Solutions for 75 curated leetcode problems <https://leetcode.com/studyplan/leetc
 
 Problem | Solution | Visual Explanation
 ------------- | ------------- | -------------
-:white_check_mark: Merge Strings Alternately |  |
+[:white_check_mark: Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/?envType=study-plan-v2&envId=leetcode-75) |  |
