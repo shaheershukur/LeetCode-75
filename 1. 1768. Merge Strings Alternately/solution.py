@@ -1,5 +1,5 @@
 # Problem Statement:    https://leetcode.com/problems/merge-strings-alternately/?envType=study-plan-v2&envId=leetcode-75
-# Visual Explanation:   
+# Visual Explanation:   https://youtu.be/CJEVZqjEddc
 
 class Solution:
     def mergeAlternately(self, word1: str, word2: str) -> str:
