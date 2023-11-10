@@ -17,6 +17,6 @@ Solutions for 75 curated leetcode problems <https://leetcode.com/studyplan/leetc
 
 ###### Two Pointers
 
-| #   | Problem                                                                                                                          | Difficulty  | Visual Explanation | Solution                  |
-| --- | -------------------------------------------------------------------------------------------------------------------------------- | ----------- | ------------------ | ------------------------- |
-| 1   | [:white_check_mark: Move Zeroes](https://leetcode.com/problems/move-zeroes/description/?envType=study-plan-v2&envId=leetcode-75) | :pear: Easy | [:tv: Video]()     | [:page_facing_up: Code]() |
+| #   | Problem                                                                                                                          | Difficulty  | Visual Explanation                         | Solution                                                                                                                 |
+| --- | -------------------------------------------------------------------------------------------------------------------------------- | ----------- | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
+| 10  | [:white_check_mark: Move Zeroes](https://leetcode.com/problems/move-zeroes/description/?envType=study-plan-v2&envId=leetcode-75) | :pear: Easy | [:tv: Video](https://youtu.be/Tt3poT5qOqI) | [:page_facing_up: Code](https://github.com/shaheershukur/LeetCode-75/tree/main/LeetCode%2075/10.%20283.%20Move%20Zeroes) |
